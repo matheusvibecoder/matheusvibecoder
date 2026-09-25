@@ -1,124 +1,122 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=140&section=header&text=Matheus%20Pessoa&fontSize=40&fontAlignY=30&desc=criador%20do%20estuda%2B%20%C2%B7%20dev%20solo%20%C2%B7%2017%20anos&descAlignY=55&descSize=16&animation=twinkling" alt="header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=640&lines=construindo+tecnologia+de+verdade+pra+quem+estuda;offline-first+%C2%B7+privacidade+primeiro+%C2%B7+zero-frameworks;nenhum+aluno+fica+para+tr%C3%A1s+%F0%9F%92%9C" alt="typing" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Matheus%20Pessoa&fontSize=42&fontAlignY=35&animation=fadeIn)
 
-<p align="center">
-  <a href="https://estuda-mais-2fw8.onrender.com"><img src="https://img.shields.io/badge/App%20no%20ar-estuda%2B-7c3aed?style=for-the-badge&logo=pwa&logoColor=white" alt="app no ar" /></a>
-  <a href="https://github.com/matheusvibecoder-vibecodas/estuda-mais"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-privado-lightgrey?style=for-the-badge&logo=github" alt="repo privado" /></a>
-  <img src="https://img.shields.io/badge/Origem-Brasil%20%F0%9F%87%A7%F0%9F%87%B7-FBDE41?style=for-the-badge" alt="Brasil" />
-</p>
+### 🇧🇷 dev full-stack solo · 17 anos · Brasília, DF
+
+> Construindo tecnologia de verdade pra quem estuda em escola pública.
+
+[![App no ar](https://img.shields.io/badge/estuda%2B-app%20no%20ar-7c3aed?style=flat-square&logo=pwa&logoColor=white)](https://estuda-mais-2fw8.onrender.com)
+[![Repositório](https://img.shields.io/badge/Repo-privado-lightgrey?style=flat-square&logo=github)](https://github.com/matheusvibecoder-vibecodas/estuda-mais)
+[![Brasil](https://img.shields.io/badge/Brasil-FBDE41?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6%2BR8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAgElEQVQI12NgYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXQdISfAAAAAElFTkSuQmCC&logoColor=black)](#)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusvibecodersolo@gmail.com)
+
+</div>
 
 ---
 
-## 💜 Sobre mim
+## 👋 E aí, tudo bem?
 
-Opa! Eu sou o **Matheus**, dev full-stack solo de Brasília — 17 anos, construindo software que ajuda aluno de escola pública a estudar de verdade. Meu foco é entregar produto útil, com tecnologia limpa e respeito por quem usa.
+Sou o **Matheus**, dev solo de Brasília, construindo software educacional que respeita o aluno: sem anúncios, sem cadastro abusivo, sem dados saindo do aparelho sem consentimento — e que funciona mesmo **sem internet**.
 
-### 🚀 Projeto principal
+Estou no último ano do ensino médio e tocando o **estuda+**, meu app de estudos pessoal com IA, do zero — código, design, produto, deploy e QA.
 
-<p align="left">
+---
+
+## 📚 Projeto principal
+
+<p>
   <a href="https://estuda-mais-2fw8.onrender.com">
-    <img align="left" width="440" src="https://capsule-render.vercel.app/api?type=rect&color=gradient:7c3aed,ec4899&height=140&section=header&text=estuda%2B&fontSize=48&fontAlignY=45&desc=plano%20de%20estudos%20pessoal%20com%20IA&descAlignY=78&descSize=16" alt="estuda+" />
+    <img align="right" width="340" alt="banner estuda+" src="https://capsule-render.vercel.app/api?type=rect&color=gradient:7c3aed,ec4899&height=100&section=header&text=estuda%2B&fontSize=38&fontAlignY=52&desc=plano%20de%20estudos%20pessoal%20com%20IA&descAlignY=82&descSize=13" />
   </a>
-  <h3>📚 estuda+</h3>
-  <p><strong>App de estudos gratuito</strong> em português, com tutor de IA que lembra do aluno, planos diários, flashcards, biblioteca de clássicos, mangás, gamificação e <strong>offline 100%</strong>.</p>
-  <ul>
-    <li>PWA instalável + APK nativo (96 KB) que atualiza pelo ar</li>
-    <li>Cadeia de 8 provedores de IA com failover automático — o tutor nunca cai</li>
-    <li>~12.300 linhas de <strong>Node puro + HTML/CSS/JS vanilla</strong>, zero frameworks</li>
-    <li>Sem anúncios, sem cadastro obrigatório, sem dados de aluno fora do dispositivo nem do servidor</li>
-    <li>285+ testes automatizados em toda release</li>
-  </ul>
+
+  **[estuda+](https://estuda-mais-2fw8.onrender.com)** — app de estudos gratuito para alunos brasileiros do fundamental e médio.
+
+  - 🤖 **Tutor com memória** que ensina conceitos e lembra das dúvidas do aluno
+  - 📋 Plano diário de estudos + simulados + flashcards gerados por IA
+  - 📚 Biblioteca de clássicos traduzidos + leitor de mangá
+  - 🎯 Missões diárias, XP, níveis, loja de recompensas (sem compras reais)
+  - 📡 **Offline total** — service worker com sincronização automática
+  - 🎨 20+ temas claros visuais + agente de IA que cria tema novo a cada 12h
+  - 👥 Ligas de estudo com chat e ranking em tempo real
+  - 📱 PWA instalável + APK nativo de **96 KB** (auto-atualiza pelo ar)
+
+  <br clear="right"/>
 </p>
 
 ---
 
-## 🛠️ O que eu uso
+## 🛠️ Ferramentas que eu uso todo dia
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/Service%20Worker-0084c9?style=for-the-badge&logo=rocket&logoColor=white" alt="Service Worker" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</p>
+<div>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=fff" alt="PWA" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=000" alt="Android" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000" alt="Render" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=fff" alt="Puppeteer" />
+</div>
 
-**Filosofia de código:**
-- 🪶 Dependência mínima — Node puro resolve 99% do problema
-- 🔐 Privacidade primeiro, offline primeiro, aluno primeiro
-- 🧪 Tudo testado antes de chegar em produção
-- 🎨 Design simples, claro, que não distrai do que importa: estudar
-- ⚡ Nada deve demorar mais que 1,4s na mão do aluno (hedge de IA)
-
----
-
-## 📊 estuda+ em números
-
-<table>
-<tr>
-<td align="center"><b>53</b><br><sub>versões lançadas</sub></td>
-<td align="center"><b>211+</b><br><sub>commits</sub></td>
-<td align="center"><b>~12.300</b><br><sub>linhas de código na mão</sub></td>
-<td align="center"><b>285+</b><br><sub>checks automatizados</sub></td>
-<td align="center"><b>8</b><br><sub>provedores de IA</sub></td>
-</tr>
-<tr>
-<td align="center"><b>1</b><br><sub>dependência (Node)</sub></td>
-<td align="center"><b>96 KB</b><br><sub>APK nativo</sub></td>
-<td align="center"><b>20+</b><br><sub>temas claros</sub></td>
-<td align="center"><b>18</b><br><sub>estilos visuais</sub></td>
-<td align="center"><b>100%</b><br><sub>offline</sub></td>
-</tr>
-</table>
+**Princípios:**
+- 🪶 dependência mínima — **Node puro + HTML/CSS/JS vanilla**, zero frameworks
+- 🔐 privacidade primeiro, offline primeiro, aluno primeiro
+- 🧪 tudo que vai pro aluno passa por teste automatizado antes
+- ⚡ nada demora mais que ~1,4s na mão do aluno
+- 💜 o app é **só claro** (não força escuro nem distrai)
 
 ---
 
-## 🧠 Minha stack de IA (para o tutor nunca ficar mudo)
+## 📊 Números do estuda+
+
+| | | | |
+|---|---|---|---|
+| **53** versões | **211+** commits | **~12.300** linhas | **285+** testes |
+| **8** provedores de IA | **1** dependência | **96 KB** APK | **100%** offline |
+
+---
+
+## 🔄 Cadeia de IA do tutor
 
 ```
-OVH keyless  →  Groq  →  OpenRouter (×2)  →  Qwen
-→  LLM7 anônimo  →  BazaarLink  →  fallback offline no aparelho
+OVH keyless  →  Groq  →  OpenRouter (×2)  →  Qwen  →  LLM7 anônimo
+                                                              ↓
+                                         BazaarLink auto-provision
+                                                              ↓
+                                       fallback local offline
 ```
 
-Respostas hedgeadas em **1,4s** com revisão em cascata de 6 revisores × até 10 rodadas — nunca um aluno fica esperando, nunca um aluno recebe resposta vazia.
+Toda chamada do tutor vai em **paralelo com hedge de 1,4s** — se o primeiro demora, o segundo começa. Respostas passam por cascata de revisão (6 revisores × até 10 rodadas) antes de chegar ao aluno. Resultado: **o tutor nunca fica mudo**.
 
 ---
 
-## 🎯 Em que estou trabalhando
+## 🚀 Em andamento
 
-- ✅ v3.58.x — estabilidade, performance e limpando os últimos cantos
-- 🔜 Play Store (US$ 25 do cadastro, em breve)
-- 🔜 Domínio próprio (estuda.app)
-- 🇧🇷 Alcançar mais alunos de escola pública
+- 🧪 v3.58.x: estabilidade, performance e polish
+- 📲 Play Store
+- 🌐 domínio próprio
+- 🇧🇷 chegar a mais alunos de escola pública
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Me chama
+## 📫 Contato
 
-<p align="left">
-  <a href="mailto:matheusvibecodersolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://estuda-mais-2fw8.onrender.com"><img src="https://img.shields.io/badge/estuda%2B-7c3aed?style=for-the-badge&logo=pwa&logoColor=white" alt="estuda+" /></a>
-</p>
+<div>
+  <a href="mailto:matheusvibecodersolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-matheusvibecodersolo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://estuda-mais-2fw8.onrender.com"><img src="https://img.shields.io/badge/estuda%2B-abrir%20app-7c3aed?style=flat-square&logo=pwa&logoColor=white" alt="estuda+" /></a>
+</div>
 
-<p align="center">
-  <i>Feito para quem estuda, por quem ainda estuda também. 💜</i>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=80&section=footer" alt="footer" />
-</p>
+<div align="center">
 
-<!--
-visitantes: começando a contar 🚀
--->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheusvibecoder&color=8b5cf6&style=flat-square" alt="visitas" />
-</p>
+*Feito para quem estuda, por quem ainda estuda também. 💜*
+
+<img src="https://komarev.com/ghpvc/?username=matheusvibecoder&color=7c3aed&style=flat-square&label=visitas" alt="visitas" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=80&section=footer)
+
+</div>
