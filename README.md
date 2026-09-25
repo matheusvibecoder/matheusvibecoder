@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://estuda-mais-2fw8.onrender.com"><img src="https://img.shields.io/badge/App%20no%20ar-estuda%2B-7c3aed?style=for-the-badge&logo=pwa&logoColor=white" alt="app no ar" /></a>
   <a href="https://github.com/matheusvibecoder-vibecodas/estuda-mais"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-privado-lightgrey?style=for-the-badge&logo=github" alt="repo privado" /></a>
-  <img src="https://img.shields.io/badge/Origem-Bras%C3%ADlia%2C%20DF-fbbf24?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0IDMiPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjMiLz48cGF0aCBmaWxsPSIjMzQ5MmQ0IiBkPSJNMCAyaDZ2MUgweiIvPjxyZWN0IHk9IjEiIHdpZHRoPSI0IiBoZWlnaHQ9IjEiIGZpbGw9IiNmZmR2MDAiLz48cG9seWdvbiBmaWxsPSIjMGEzZDk3IiBwb2ludHM9IjEuNzUsMSAwLjUsMiAzLjUsMiAyLjI1LDEiLz48c3Ryb2tlIHN0cm9rZS13aWR0aD0iLjIiLz48L3N2Zz4=&logoColor=white" alt="Brasil" />
+  <img src="https://img.shields.io/badge/Origem-Brasil%20%F0%9F%87%A7%F0%9F%87%B7-FBDE41?style=for-the-badge" alt="Brasil" />
 </p>
 
 ---
