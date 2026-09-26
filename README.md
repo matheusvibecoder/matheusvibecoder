@@ -2,13 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Matheus%20Pessoa&fontSize=42&fontAlignY=35&animation=fadeIn)
 
-### 🇧🇷 dev full-stack solo · 17 anos · Brasília, DF
+### 🇧🇷 dev full-stack solo · 13 anos · Brasília, DF
 
-> Construindo tecnologia de verdade pra quem estuda em escola pública.
+> Construindo tecnologia de verdade pra quem estuda. Do zero. Aos 13.
 
 [![App no ar](https://img.shields.io/badge/estuda%2B-app%20no%20ar-7c3aed?style=flat-square&logo=pwa&logoColor=white)](https://estuda-mais-2fw8.onrender.com)
 [![Repositório](https://img.shields.io/badge/Repo-privado-lightgrey?style=flat-square&logo=github)](https://github.com/matheusvibecoder-vibecodas/estuda-mais)
-[![Brasil](https://img.shields.io/badge/Brasil-FBDE41?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6%2BR8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAgElEQVQI12NgYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXQdISfAAAAAElFTkSuQmCC&logoColor=black)](#)
+[![Brasil](https://img.shields.io/badge/Brasil-FBDE41?style=flat-square)](#)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusvibecodersolo@gmail.com)
 
 </div>
@@ -17,9 +17,9 @@
 
 ## 👋 E aí, tudo bem?
 
-Sou o **Matheus**, dev solo de Brasília, construindo software educacional que respeita o aluno: sem anúncios, sem cadastro abusivo, sem dados saindo do aparelho sem consentimento — e que funciona mesmo **sem internet**.
+Sou o **Matheus**, dev solo de Brasília — **13 anos**, construindo software educacional que respeita o aluno: sem anúncios, sem cadastro abusivo, sem dados saindo do aparelho sem consentimento — e que funciona mesmo **sem internet**.
 
-Estou no último ano do ensino médio e tocando o **estuda+**, meu app de estudos pessoal com IA, do zero — código, design, produto, deploy e QA.
+Escrevi o **estuda+** do zero: código, design, produto, deploy e QA. ~12.300 linhas de Node + HTML/CSS/JS na mão, zero frameworks, 53 versões lançadas, tudo sozinho.
 
 ---
 
@@ -98,7 +98,7 @@ Toda chamada do tutor vai em **paralelo com hedge de 1,4s** — se o primeiro de
 - 🧪 v3.58.x: estabilidade, performance e polish
 - 📲 Play Store
 - 🌐 domínio próprio
-- 🇧🇷 chegar a mais alunos de escola pública
+- 🇧🇷 chegar a mais alunos
 
 ---
 
